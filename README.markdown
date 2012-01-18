@@ -1,6 +1,6 @@
-This is documentation & downloads repository for Itoa project.
+This is [documentation](https://github.com/DmitrySkiba/itoa/wiki) & [file](https://github.com/DmitrySkiba/itoa/downloads) repository for Itoa project.
 
-Itoa project lets you recompile your iOS applications for Android. Read more in an introductory post [here](http://itoaproject.blogspot.com)
+Itoa project lets you recompile iOS applications for Android. Read more in the [blog](http://itoaproject.blogspot.com)
 
 Here is the list of subprojects that make up Itoa:
 
